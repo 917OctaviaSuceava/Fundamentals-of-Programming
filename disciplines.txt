@@ -1,0 +1,10 @@
+358 Algebra
+597 Analysis
+642 Geography
+85 History
+650 English
+417 Physics
+423 Geometry
+149 Computational Logic
+530 Fundamentals of Programming
+183 Economics
